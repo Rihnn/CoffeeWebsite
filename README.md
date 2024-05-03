@@ -1,0 +1,1 @@
+This project aims to create a sleek and user-friendly website for coffee enthusiasts. Whether you're a casual coffee drinker or a seasoned connoisseur, our website provides a platform to explore different types of coffee, learn about brewing methods, and discover the latest trends in the coffee world.
